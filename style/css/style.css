@@ -113,3 +113,9 @@ span {
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
+/*
+img {
+    border-radius: 55% 45% 52% 48% / 62% 46% 54% 38% ;
+    border: 12px solid var(--main-color);
+}
+*/
